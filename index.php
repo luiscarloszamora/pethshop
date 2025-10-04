@@ -52,7 +52,7 @@
     <main>
         <!-- Seccion de mi main -->
         <section>
-            <h2>Contenido</h2>
+            <h2>Github</h2>
         </section>
     </main>
 
